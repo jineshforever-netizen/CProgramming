@@ -4,7 +4,7 @@ int main()
 {
 
     // Compile time error
-    printfs("Hello Word!");
+    printf("Hello World!");
 
     // Run time error
     int value = 7 / 0;

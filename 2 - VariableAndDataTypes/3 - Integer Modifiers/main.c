@@ -8,8 +8,8 @@ int main()
 
     printf("value1 : %d\n", value1);
     printf("value2 : %d\n", value2);
-    printf("sizeof(value1) : %lu bytes\n", sizeof(value1));
-    printf("sizeof(value2) : %lu bytes\n", sizeof(value2));
+    printf("sizeof(value1) : %u bytes\n", sizeof(value1));
+    printf("sizeof(value2) : %u bytes\n", sizeof(value2));
 
     unsigned int value3 = 4;
     // unsigned int value4 = -5; // Compiler error
